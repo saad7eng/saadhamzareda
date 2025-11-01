@@ -14,9 +14,9 @@ This project demonstrates collaborative web development where team members work 
 
 | Team Member | Responsibility | Main File(s) |
 |-------------|----------------|-------------|
-| [Name 1] | HTML Structure | `index.html` |
-| [Name 2] | CSS Styling | `style.css` |
-| [Name 3] | JavaScript Interactivity | `script.js` |
+| Hamza Hasnaoui | HTML Structure | `index.html` |
+| Saad EL-Hamdaoui | CSS Styling | `style.css` |
+| Rida El-yousfi | JavaScript Interactivity | `script.js` |
 
 ## 🚀 Features
 
